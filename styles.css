@@ -1,0 +1,81 @@
+body {
+  background-color: #283149;
+  text-align: center;
+}
+
+h1 {
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  font-size: 5rem;
+  padding: 0 5%;
+  text-shadow: 3px 0 #DA0463;
+
+}
+
+footer {
+  color: #DBEDF3;
+  font-family: sans-serif;
+}
+
+/* Drum buttons */
+.set {
+  margin: 10% auto;
+}
+
+.w {
+  background-image: url("images/tom1.png");
+}
+
+.a {
+  background-image: url("images/tom2.png");
+}
+
+.s {
+  background-image: url("images/tom3.png");
+}
+
+.d {
+  background-image: url("images/tom4.png");
+}
+
+.j {
+  background-image: url("images/snare.png");
+}
+
+.k {
+  background-image: url("images/crash.png");
+}
+
+.l {
+  background-image: url("images/kick.png");
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.drum {
+  background-color: white;
+  border-radius: 15px;
+  border: 10px solid #404B69;
+  color: #DA0463;
+  display: inline-block;
+  font-family: 'Arvo', cursive;
+  font-size: 5rem;
+  font-weight: 900;
+  height: 150px;
+  line-height: 2;
+  margin: 10px;
+  outline: none;
+  text-align: center;
+  text-shadow: 3px 0 #DBEDF3;
+  width: 150px;
+}
+
+/* Media Query */
+@media (max-width: 320px) {
+  .drum {
+    width: 40%;
+  }
+}
