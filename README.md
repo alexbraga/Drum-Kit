@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://alexbraga.github.io/Drum-Kit/">Drum Kit</a>
+  <a href="https://alexbraga.github.io/drum-kit/">Drum Kit</a>
 </h1>
 
 <h3 align="center">
@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/alexbraga/Drum-Kit/commits/master"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/alexbraga/Drum-Kit"></a>
+  <a href="https://github.com/alexbraga/drum-kit/commits/master"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/alexbraga/drum-kit"></a>
 </p>
 
 <h4 align="center">
@@ -16,7 +16,7 @@
 
 ## About
 
-<p align="justify">JavaScript project built for <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/">The Complete 2021 Web Development Bootcamp</a>. Available <a href="https://alexbraga.github.io/Drum-Kit/">here</a>.</p>
+<p align="justify">JavaScript project built for <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/">The Complete 2021 Web Development Bootcamp</a>. Available <a href="https://alexbraga.github.io/drum-kit/">here</a>.</p>
 
 ---
 
